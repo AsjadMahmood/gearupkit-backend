@@ -10,7 +10,7 @@ So if you haven't installed it yet click the link https://nodejs.org/en/download
 If you have node.js and npm install in your pc write command 'npm install' to install the require dependencies for this project
 
 # Connect to DB
-Import the dataset by creating 'gearupkit' DB and table named User. 
+Import the dataset by creating 'gearupkit' DB and table named users. 
 If you have created your own DB and table in the .env file and index.js file, url to connect to mongodb is written.You can update it accordingly and change the 
 table name from 'model/user.model.js' file.
 
